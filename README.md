@@ -7,7 +7,7 @@ This project addresses the challenge of classifying rare stroke cases in an extr
 
 ## Dataset
 - Highly imbalanced dataset with 98% non-stroke and 2% stroke cases
-- Source: 
+- Source: https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset
 
 ## Methods Explored
 1. **One-Class Classification with Autoencoders**  
